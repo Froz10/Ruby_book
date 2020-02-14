@@ -1,0 +1,3 @@
+# encoding: cp866
+
+puts "Каг£".size
